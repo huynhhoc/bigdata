@@ -8,7 +8,7 @@ Ngày hiệu đính: 13/08/2026
 - `Lectures/Lecture 2 Hadoop.pptx`
 - `src/hadoop_colab_practical/Hadoop_Practical_Online_Colab.ipynb`
 - `src/hadoop_colab_practical/HDFS_FileSystem_Shell_Lab_Colab.ipynb`
-- Các hướng dẫn giảng viên trong `src/hadoop_colab_practical/`
+- `src/hadoop_colab_practical/README.md`
 
 ## Những điểm đã sửa trong bài giảng
 

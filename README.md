@@ -13,7 +13,7 @@ Thư mục `src/hadoop_colab_practical/` gồm:
 
 - `Hadoop_Practical_Online_Colab.ipynb`: bài thực hành chính về HDFS, block, replication, YARN và MapReduce.
 - `HDFS_FileSystem_Shell_Lab_Colab.ipynb`: bài bổ trợ chuyên sâu về Hadoop FileSystem Shell.
-- Hướng dẫn dành cho giảng viên và rubric đánh giá.
+- Rubric đánh giá được đặt ở cuối mỗi notebook.
 
 Notebook được thiết kế cho Google Colab với Apache Hadoop 3.5.0 và Java 17 ở chế độ pseudo-distributed single-node.
 
