@@ -8,7 +8,7 @@ Ngày hiệu đính: 13/08/2026
 - `Lectures/Lecture 2 Hadoop.pptx`
 - `src/hadoop_colab_practical/Hadoop_Practical_Online_Colab.ipynb`
 - `src/hadoop_colab_practical/HDFS_FileSystem_Shell_Lab_Colab.ipynb`
-- `src/hadoop_colab_practical/README.md`
+- Các hướng dẫn giảng viên trong `src/hadoop_colab_practical/`
 
 ## Những điểm đã sửa trong bài giảng
 
@@ -19,6 +19,12 @@ Ngày hiệu đính: 13/08/2026
 - Thay thuật ngữ master/slave bằng manager/worker khi mô tả kiến trúc.
 - Làm rõ bốn thành phần YARN và sửa đúng trình tự chạy application.
 - Thay liên kết blog Hadoop 2.x bằng tài liệu cluster setup chính thức.
+- Bổ sung mô hình MapReduce và vai trò của Shuffle/Sort.
+- Bổ sung ví dụ WordCount theo luồng Map → Shuffle/Sort → Reduce.
+- Nêu rõ workload phù hợp và các giới hạn thiết kế của HDFS.
+- Bổ sung các điểm quan trọng của Hadoop 3.x/Hadoop 3.5.0.
+- So sánh replication với erasure coding và giới hạn minh họa trên Colab single-node.
+- Đồng bộ phần kết thúc bài giảng với notebook Hadoop và bài PySpark mở rộng.
 
 ## Những điểm đã sửa trong bài thực hành
 
